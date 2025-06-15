@@ -1,4 +1,4 @@
-package candidatura;
+package excercises;
 
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
