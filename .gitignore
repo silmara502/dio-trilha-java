@@ -1,1 +1,4 @@
-.classpath/n.project/n.settings//nbin/
+.classpath
+.project
+.settings/
+bin/
